@@ -667,7 +667,7 @@ body
 {
     color: var(--text-black-700)    ;
 }
-.portfolio .portfolio-item-inner .portfolio-img video
+.portfolio .portfolio-item-inner .portfolio-img img
 {
     width: 100%;
     display: block;
